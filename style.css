@@ -1,4 +1,11 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 h1, h2 {
     color: darkblue;
     background: lightblue;
+}
+p, ul, ol {
+    color: black;
+    background: lightgrey;
 }
